@@ -1,0 +1,40 @@
+<header class="header">
+{% if site.announcement %}
+<div id="announcement">{{ site.announcement }}</div>
+{% endif %}
+<div class="navigation">
+<a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
+<ul class="menu">
+  <li class="menu__entry {% if page.url contains '/projects' %}active{% endif %}">
+    <a href="{{ '/projects' | prepend: site.baseurl }}">Projects</a>
+  </li>
+  <!-- <li class="menu__entry {% if page.url contains '/resume' %}active{% endif %}"><a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a></li> -->
+  <li class="menu__entry {% if page.url contains '/blog' %}active{% endif %}">
+    <a href="{{ '/blog' | prepend: site.baseurl }}">Posts</a>
+  </li>
+  <li class="menu__entry {% if page.url contains '/about' %}active{% endif %}">
+    <a href="{{ '/about' | prepend: site.baseurl }}">About</a>
+  </li>
+  <li class="menu__entry {% if page.url contains '/code-of-conduct' %}active{% endif %}">
+    <a href="{{ '/code-of-conduct' | prepend: site.baseurl }}">Code of Conduct</a>
+  </li>
+</ul>
+</div>
+<ul class="social-links">
+{% if site.author.email %}
+<a href="mailto:{{ site.author.email }}" class="social-links__entry" target="_blank">
+<i class="fa fa-envelope-square"></i>
+</a>
+{% endif %}
+{% if site.author.github %}
+<a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
+<i class="fa fa-github"></i>
+</a>
+{% endif %}
+{% if site.author.linkedin %}
+<a href="https://in.linkedin.com/in/{{ site.author.linkedin }}" class="social-links__entry" target="_blank">
+<i class="fa fa-linkedin"></i>
+</a>
+{% endif %}
+</ul>
+</header>
