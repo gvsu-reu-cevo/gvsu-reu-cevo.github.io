@@ -46,9 +46,9 @@ title: About our REU
 
 <div class="person" markdown="1">
   <a id="devries" />
-  <img class="headshot" src="{{ '/assets/img/GrandValley_logomark_blue.png' | prepend: site.baseurl }}" />
+  <img class="headshot" src="{{ '/assets/img/people/devries.jpg' | prepend: site.baseurl }}" />
   <h2 class="name"><a href="https://www.byrondevries.com/">Dr. Byron DeVries</a></h2>
-  <p class="desc"><b>(Lead Mentor)</b> Dr. Byron DeVries is ... </p>
+  <p class="desc"><b>(Lead Mentor)</b> Dr. Byron DeVries is an expert in software engineering with research interests spanning model-driven engineering, requirements engineering, evolutionary computation, parallel processing, algorithm design, and computer science pedagogy and outreach. His work contributes to advancing methodologies that improve software development processes and performance.</p>
 </div>
 
 
