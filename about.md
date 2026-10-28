@@ -88,9 +88,9 @@ title: About our REU
 
 <div class="person" markdown="1">
   <a id="hamsher" />
-  <img class="headshot" src="{{ '/assets/img/GrandValley_logomark_blue.png' | prepend: site.baseurl }}" />
-  <h2 class="name"><a href="">Dr. Sarah Hamsher</a></h2>
-  <p class="desc">TBD</p>
+  <img class="headshot" src="{{ '/assets/img/people/hamsher.jpg' | prepend: site.baseurl }}" />
+  <h2 class="name"><a href="https://www.gvsu.edu/biology/facultystaff-directory-63.htm?recordId_1=E7B8D5EC-3C93-71BD-273A3B6C76B2903B#0B7F03B9-15CA-99F9-55410406732EC0B9">Dr. Sarah Hamsher</a></h2>
+  <p class="desc">Dr. Sarah Hamsher studies diatom taxonomy and systematics using morphological and molecular data. She is interested in questions related to evolution, biogeography, and ecology.</p>
   <p class="desc">
     <span class="reu-badge"><a href="https://www.gvsu.edu/wri">GVSU &bull; Annis Water Resources Institute</a></span>
   </p>
