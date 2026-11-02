@@ -78,9 +78,11 @@ title: About our REU
 
 <div class="person" markdown="1">
   <a id="partridge" />
-  <img class="headshot" src="{{ '/assets/img/GrandValley_logomark_blue.png' | prepend: site.baseurl }}" />
-  <h2 class="name"><a href="">Dr. Charlyn Partridge</a></h2>
-  <p class="desc">TBD</p>
+  <img class="headshot" src="{{ '/assets/img/people/partridge.jpg' | prepend: site.baseurl }}" />
+  <h2 class="name"><a href="https://www.partridgelabs.com/ ">Dr. Charlyn Partridge</a></h2>
+  <p class="desc">
+  Dr. Partridge is a molecular ecologist who uses genomic tools to aid in conservation and management. Her work is focused on developing new approaches for invasive species monitoring and evaluating how invasive species rapidly adapt to new environmental conditions. Her work bridges both the applied and basic sciences so that we can better manage invasive populations while also learning about the factors driving their success. 
+  </p>
   <p class="desc">
     <span class="reu-badge"><a href="https://www.gvsu.edu/wri">GVSU &bull; Annis Water Resources Institute</a></span>
   </p>
