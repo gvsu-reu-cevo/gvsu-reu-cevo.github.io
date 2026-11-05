@@ -8,9 +8,9 @@ url: "https://gvsu-reu-cevo.github.io" # the base hostname & protocol for your s
 
 author:
   fullname: fredericks
-  github: github
-  linkedin: linkedin
-  email: example@email.com
+  github: gvsu-reu-cevo
+  # linkedin: linkedin
+  email: frederer@gvsu.edu
 
 announcement: >
   <h2>We expect to open applications for Summer 2027 by November 30th, 2027!</h2>

@@ -39,5 +39,5 @@ Student projects will focus in two specific domains: (1) digital evolutionary bi
 <img src="{{ '/assets/img/GrandValley_logomark_blue.png' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-<p>Questions? Reach out to our PIs!</p>
+<p>Questions? Reach out to our PIs!<br />Erik Fredericks (frederer@gvsu.edu) or Austin Ferguson (ferguaus@gvsu.edu)</p>
 </div>

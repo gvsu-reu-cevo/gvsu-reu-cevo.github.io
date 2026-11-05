@@ -109,5 +109,7 @@ title: About our REU
 </div>
 
 
-## Other Info 
-<sub>Website template modified from [Pudhina](https://github.com/knhash/Pudhina).</sub>
+## Attributions
+
+* This site was based on the [Pudhina](https://github.com/knhash/Pudhina) template.
+* Portions of this site were supported by AI-assisted code development.
