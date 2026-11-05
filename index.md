@@ -6,6 +6,8 @@ sitemap:
   priority: 0.9
 ---
 
+> Please note that we are still in the process of finalizing our website.
+
 ## About our REU Site
 
 Our site will engage and train undergraduate students in empirical research, to advance evolutionary theory, and to harness the principles of evolution for algorithm development and real-world problem-solving. This site aligns with the [NSF Big Idea Understanding the Rules of Life](https://www.nsf.gov/about/history/big-ideas#understanding-the-rules-of-life-3c8) and will be supported by mentors experienced in guiding undergraduate students in independent, inter-disciplinary research. 
@@ -18,8 +20,6 @@ Student projects will focus in two specific domains: (1) digital evolutionary bi
 * Stipend: **$7,000 per student**
 * Travel reimbursement up to **$600** per student
 * Free housing: [Allendale Valley Campus](https://www.gvsu.edu/housing/housing-styles-44)
-    * TODO: update link when we know **where** we'll be
-
 
 ## Application Process
 
