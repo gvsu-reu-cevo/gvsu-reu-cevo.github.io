@@ -25,7 +25,7 @@ Student projects will focus in two specific domains: (1) digital evolutionary bi
 
 ### Application window:
 
-* November 1st, 2026 -- February 1st, 2027
+* November 30th, 2026 -- February 1st, 2027
 
 ### Eligibility requirements
 
