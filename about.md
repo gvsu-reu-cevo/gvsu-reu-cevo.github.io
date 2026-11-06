@@ -102,7 +102,7 @@ title: About our REU
   <a id="dickson" />
   <img class="headshot" src="{{ '/assets/img/people/dickson.jpg' | prepend: site.baseurl }}" />
   <h2 class="name"><a href="https://www.vai.org/people/bradley-dickson/">Dr. Bradley Dickson</a></h2>
-  <p class="desc">Dr. Brad develops and applies physics-based models to enable accelerated all-atom simulation of molecular processes and facilitate deeper understanding of experiment.</p>
+  <p class="desc">Brad Dickson develops methods for accelerated all-atom simulation of molecular processes and applied physics-based models to facilitate deeper understanding of experiment.</p>
   <p class="desc">
     <span class="reu-badge"><a href="https://www.vai.org/">Van Andel Institute</a></span>
   </p>
